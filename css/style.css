@@ -104,9 +104,8 @@ img {
 }
 
 /* Style 4 */
-.resume-page img {
-    display: block;
-    margin: 0 auto;
+.resume-page p {
+    color: pink;
 }
 
 /* Style 5 */
