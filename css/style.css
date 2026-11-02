@@ -1,0 +1,105 @@
+/* Shared Style */
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    background-color: lightgray;
+}
+
+body {
+    font-family:'Times New Roman', Times, serif;
+}
+
+/* Home Page */
+
+/* Style 1 */
+.home-page h1,h2 {
+    color: grey;
+    font-weight: bold;
+}
+
+/* Style 2 */
+.home-page p {
+    line-height: 1.5;
+}
+
+/* Style 3 */
+.home-page img {
+    border-radius: 8px;
+    opacity: 0.8;
+}
+
+/* Style 4 */
+.home-page section {
+    padding: 2rem;
+}
+
+/* Style 5 */
+.home-page iframe {
+    text-align: center;
+}
+
+/* Soccer Page */
+
+/* Style 1 */
+.soccer-page h1 {
+    color: navy;
+    font-weight: bold;
+}
+
+/* Style 2 */
+.soccer-page main {
+    width: 900px;
+    margin: 0 auto;
+}
+
+/* Style 3 */
+.soccer-page .spainworldcup-photo {
+    border: 3px solid darkgray;
+}
+
+/* Style 4 */
+.soccer-page body {
+    background-color: lightslategray;
+}
+
+/* Style 5 */
+.soccer-page .soccerball-photo {
+    box-shadow: 3px 3px 10px gray;
+}
+
+/* Resume Page */
+
+/* Style 1 */
+.resume-page h1 {
+    color: darkred;
+    font-weight: bold;
+}
+
+/* Style 2 */
+.resume-page main {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Style 3 */
+.resume-page h2, h3 {
+    color: red;
+    font-weight: bold;
+}
+
+/* Style 4 */
+.resume-page img {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Style 5 */
+.resume-page body {
+    background-color: lightpink;
+}
+
