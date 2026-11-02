@@ -42,8 +42,10 @@ img {
 }
 
 /* Style 5 */
-.home-page iframe {
-    text-align: center;
+.home-page li {
+  display: flex;
+  flex-direction: row;
+  gap: 20px; 
 }
 
 /* Soccer Page */
