@@ -42,10 +42,11 @@ img {
 }
 
 /* Style 5 */
-.home-page li {
+.home-page li ul {
   display: flex;
-  flex-direction: row;
-  gap: 20px; 
+  flex-direction: column;
+  gap: 16px;
+  padding-left: 20px;
 }
 
 /* Soccer Page */
