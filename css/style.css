@@ -86,7 +86,7 @@ img {
 /* Resume Page */
 
 /* Style 1 */
-.resume-page h1 {
+.resume-page h1, h2, h3 {
     color: darkred;
     font-weight: bold;
 }
@@ -100,9 +100,8 @@ img {
 }
 
 /* Style 3 */
-.resume-page h2, h3 {
-    color: red;
-    font-weight: bold;
+.resume-page p {
+    color: white;
 }
 
 /* Style 4 */
