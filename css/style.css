@@ -112,6 +112,6 @@ img {
 
 /* Style 5 */
 .resume-page {
-    background-color: black;
+    background-color: black !important;
 }
 
