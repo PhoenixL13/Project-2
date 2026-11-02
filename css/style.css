@@ -12,6 +12,12 @@ body {
     font-family:'Times New Roman', Times, serif;
 }
 
+.home-page,
+.redume-page,
+.soccer-page {
+    text-align; center;
+}
+
 /* Home Page */
 
 /* Style 1 */
