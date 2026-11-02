@@ -79,6 +79,8 @@ img {
 /* Style 5 */
 .soccer-page .soccerball-photo {
     box-shadow: 3px 3px 10px gray;
+    width: 40%;
+    height: auto;
 }
 
 /* Resume Page */
