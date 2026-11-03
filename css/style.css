@@ -53,7 +53,9 @@ img {
 /* Soccer Page */
 
 /* Style 1 */
-.soccer-page h1, h2 {
+.soccer-page h1,
+.soccer-page h2,
+.soccer-page h3 {
     color: #BA4195;
     font-weight: bold;
 }
