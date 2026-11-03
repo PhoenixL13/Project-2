@@ -23,14 +23,14 @@ img {
   margin: 0 auto;
   padding: 20px;
   box-sizing: border-box;
-  background-color: white;
+  background-color: #ffffff;
 }
 
 /* Home Page */
 
 /* Style 1 */
 .home-page h1,h2 {
-    color: grey;
+    color: #1D1C87;
     font-weight: bold;
 }
 
@@ -46,12 +46,8 @@ img {
 }
 
 /* Style 4 */
-body.home-page {
-  max-width: 960px;
-  width: 90%;
-  margin: 0 auto;
-  padding: 20px;
-  box-sizing: border-box;
+.home-page {
+  background-color: #A19F9A !important;
 }
 
 /* Style 5 */
@@ -66,7 +62,7 @@ body.home-page {
 
 /* Style 1 */
 .soccer-page h1, h2 {
-    color: navy;
+    color: #BA4195;
     font-weight: bold;
 }
 
@@ -83,7 +79,7 @@ body.home-page {
 
 /* Style 4 */
 .soccer-page {
-    background-color: lightslategray;
+    background-color: #EDA6EC !important;
 }
 
 /* Style 5 */
@@ -99,7 +95,7 @@ body.soccer-page {
 
 /* Style 1 */
 .resume-page h1, h2, h3 {
-    color: darkred;
+    color: #144A16;
     font-weight: bold;
 }
 
@@ -127,6 +123,6 @@ body.resume-page {
 
 /* Style 5 */
 .resume-page {
-    background-color: #C9C1C1 !important;
+    background-color: #4D4525 !important;
 }
 
