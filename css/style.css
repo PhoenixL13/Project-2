@@ -43,11 +43,11 @@ img {
 }
 
 /* Style 5 */
-.home-page li ul {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-  padding-left: 20px;
+.home-page main {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
 }
 
 /* Soccer Page */
