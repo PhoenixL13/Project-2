@@ -45,8 +45,12 @@ img {
 }
 
 /* Style 4 */
-.home-page section {
-    padding: 2rem;
+body.home-page {
+  max-width: 960px;
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 /* Style 5 */
@@ -82,10 +86,12 @@ img {
 }
 
 /* Style 5 */
-.soccer-page .soccerball-photo {
-    box-shadow: 3px 3px 10px gray;
-    width: 40%;
-    height: auto;
+body.soccer-page {
+  max-width: 960px;
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 /* Resume Page */
@@ -110,8 +116,12 @@ img {
 }
 
 /* Style 4 */
-.resume-page li {
-  color: white;
+body.resume-page {
+  max-width: 960px;
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 /* Style 5 */
