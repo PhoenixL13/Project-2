@@ -45,7 +45,6 @@ img {
 .home-page {
   background-color: #A19F9A !important;
   font-family:'Times New Roman', Times, serif;
-  text-align: center;
 }
 
 /* Style 5 */
@@ -124,6 +123,5 @@ body.resume-page {
 .resume-page {
     background-color: #4D4525 !important;
     font-family:'Times New Roman', Times, serif;
-    text-align: center;
 }
 
