@@ -16,8 +16,10 @@ img {
 /* Home Page */
 
 /* Style 1 */
-.home-page h1,h2 {
-    color: #1D1C87;
+.home-page h1,
+.home-page h2,
+.home-page h3 {
+    color: #111354;
     font-weight: bold;
 }
 
@@ -36,7 +38,7 @@ img {
 
 /* Style 4 */
 .home-page {
-  background-color: #A19F9A !important;
+  background-color: #B0B2E8 !important;
   font-family:'Times New Roman', Times, serif;
 }
 
@@ -85,7 +87,9 @@ img {
 /* Resume Page */
 
 /* Style 1 */
-.resume-page h1, h2, h3 {
+.resume-page h1,
+.resume-page h2,
+.resume-page h3 {
     color: #144A16;
     font-weight: bold;
 }
@@ -114,7 +118,7 @@ body.resume-page {
 
 /* Style 5 */
 .resume-page {
-    background-color: #4D4525 !important;
+    background-color: #C2DEAB !important;
     font-family:'Times New Roman', Times, serif;
 }
 
