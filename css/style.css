@@ -75,6 +75,8 @@ img {
 /* Style 3 */
 .soccer-page .spainworldcup-photo {
     border: 3px solid darkgray;
+    width: 50%;
+    height: auto;
 }
 
 /* Style 4 */
@@ -83,12 +85,9 @@ img {
 }
 
 /* Style 5 */
-body.soccer-page {
-  max-width: 960px;
-  width: 90%;
-  margin: 0 auto;
-  padding: 20px;
-  box-sizing: border-box;
+.soccer-page .soccerball-photo {
+    width: 50%;
+    height: auto;
 }
 
 /* Resume Page */
