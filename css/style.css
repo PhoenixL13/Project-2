@@ -30,6 +30,8 @@ img {
 .home-page img {
     border-radius: 8px;
     opacity: 0.8;
+    width: 60%;
+    height: auto;
 }
 
 /* Style 4 */
