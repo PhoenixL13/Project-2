@@ -8,11 +8,6 @@ nav ul {
     background-color: lightgray;
 }
 
-body {
-    font-family:'Times New Roman', Times, serif;
-    text-align: center;
-}
-
 img {
     display: block;
     margin: 0 auto;
@@ -49,6 +44,8 @@ img {
 /* Style 4 */
 .home-page {
   background-color: #A19F9A !important;
+  font-family:'Times New Roman', Times, serif;
+  text-align: center;
 }
 
 /* Style 5 */
@@ -83,6 +80,8 @@ img {
 /* Style 4 */
 .soccer-page {
     background-color: #EDA6EC !important;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 /* Style 5 */
@@ -124,5 +123,7 @@ body.resume-page {
 /* Style 5 */
 .resume-page {
     background-color: #4D4525 !important;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
 }
 
